@@ -1,0 +1,7 @@
+This is a sample file for testing the file search tool.
+The file contains multiple lines of text.
+Some lines contain the word "sample" and others don't.
+This line contains the word sample again.
+The search tool should find all occurrences.
+Line numbers will help identify where matches are found.
+

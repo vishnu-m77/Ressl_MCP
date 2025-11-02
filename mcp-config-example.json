@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "file-search-server": {
+      "command": "python",
+      "args": ["/path/to/Ressl_MCP/src/server.py"]
+    }
+  }
+}
+
